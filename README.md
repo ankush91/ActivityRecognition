@@ -13,7 +13,7 @@ This folder is part of an my ongoing research work conceived from an Independent
 # Outcome
 
 * As an outcome of this study, I was included in an on-going research project supervised by Dr. Daniela Inclezan & Dr. Marcello Balduccini. 
-* My prior responsibility was to develop the Question Answering component in logic forms included as part of our academic research paper on 'Understanding Restaurant Stories using ASP theory of Intentions'. 
+* My prior responsibility was to develop the Question Answering component in logic forms included as part of our academic research paper on <b> 'Understanding Restaurant Stories using ASP theory of Intentions' </b>. 
 * My future goal is to reserach, design and develop natural language translation from narratives in English to history & observations in ASP and apply similar transformations for the Question Answering component.
 * Please note that the current version of this work (code & paper) is under consideration for publication under 'International Conference of Logic Programming, 2017' and is not included as part of this repository. Request to view my contributions in this project will be handled on a case by case basis.
 
