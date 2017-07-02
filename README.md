@@ -1,6 +1,6 @@
 # Independent Study on NLP & Event Narratives focused on Activity Recognition
 
-This folder is part of the ongoing research work conceived from an Independent Study at Drexel University, Winter 2017. 
+This folder is part of an my ongoing research work conceived from an Independent Study at Drexel University, Winter 2017. 
 * Facilitator: Ankush Israney, avi26@drexel.edu |  
 * Primary Advisor: Dr. Marcello Balduccini, Drexel Univeristy, mb3368@drexel.edu | marcello.balduccini@gmail.com
 * External Advisor: Dr. Daniela Inclezan, Miami University, daniela.inclezan@gmail.com
@@ -12,6 +12,8 @@ This folder is part of the ongoing research work conceived from an Independent S
 
 # Outcome
 
-Inlcusion in an on-going research project supervised by Dr. Daniela Inclezan & Dr. Marcello Balduccini resulted as an outcome of this study. My prior responsibility was to develop the Question Answering component in logic forms on 'Understanding Restaurant Stories using ASP theory of Intentions'. My future goals are to reserach, design and develop natural language translation from narratives in English to history & observations in ASP and apply similar transformations for the Question Answering component.
-* Please note that the current version of this unpublished work (code & paper) is under consideration for publication under 'International Conference of Logic Programming, 2017' and is not included as part of this repository. Request to view my contributions in this project will be handled on a case by case basis.
+* Towards the end of this study, I was included in an on-going research project supervised by Dr. Daniela Inclezan & Dr. Marcello Balduccini. 
+* My prior responsibility was to develop the Question Answering component in logic forms on 'Understanding Restaurant Stories using ASP theory of Intentions'. 
+* My future goal is to reserach, design and develop natural language translation from narratives in English to history & observations in ASP and apply similar transformations for the Question Answering component.
+* Please note that the current version of this work (code & paper) is under consideration for publication under 'International Conference of Logic Programming, 2017' and is not included as part of this repository. Request to view my contributions in this project will be handled on a case by case basis.
 
