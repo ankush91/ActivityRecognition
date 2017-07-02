@@ -7,8 +7,8 @@ This folder is part of an my ongoing research work conceived from an Independent
 
 # Folder Organization
 
-* The respective folders contain papers read and researched upon as part of the study. Please note that relevant citations have not been included in this repo yet and papers were a focus of academic research mostly from  <br>
-* The 'MyPresentations' folder is a key folder which contains presentations on some important papers which were formed a basis of significant insights and discussions as part of this study.
+* The respective folders contain papers read and researched upon as part of the study. Please note that the papers were a focus of academic research and discussion and as a consequence most of the relevant citations have not yet been included in this repository.  <br>
+* The 'MyPresentations' folder is a key folder which contains presentations on some important papers which were formed a basis of significant insights and discussions as part of my study.
 
 # Outcome
 
