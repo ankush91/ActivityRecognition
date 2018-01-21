@@ -5,7 +5,7 @@ This folder is part of an my ongoing research work conceived from an Independent
 * Primary Advisor: Dr. Marcello Balduccini, Drexel Univeristy, mb3368@drexel.edu | marcello.balduccini@gmail.com
 * External Advisor: Dr. Daniela Inclezan, Miami University, daniela.inclezan@gmail.com | inclezd@MiamiOH.edu
 
-## Repo Structure
+## Repository Structure
 
 * The respective folders contain some key academic papers read and researched upon as part of the study. Please note that the papers were a focus of academic research and discussion and as a consequence most of the relevant citations have not yet been included in this repository.  <br>
 * The <b>'MyPresentations'</b> folder is a key folder which contains my presentations on some important papers which were formed a basis of significant insights and discussions as part of the study.
